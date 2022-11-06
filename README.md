@@ -3,7 +3,7 @@
 
 ### Python
 - [ ] Criar AES do zero em python - versão didática
-- [ ] Tentar criar AES do zero em python - versão eficiente
+- [ ] Criar AES do zero em python - versão eficiente
 - [ ] Implementar um modo de operação do zero em python
 
 - [ ] Implementar AES utilizando bibliotecas em python
