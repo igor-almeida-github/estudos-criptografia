@@ -4,7 +4,7 @@ Implementação feita separando as etapas de criptografia add_round_key, sub_byt
 Computacionalmente ineficiente, porém didático.
 """
 
-
+a
 
 
 
